@@ -65,6 +65,7 @@ All the systems listed in this section are under open licenses, i.e. can be remi
 - [Open Adventure](https://github.com/openadventure/Open-Adventure) - an open system that uses a d6-d6 as core (CC)
 - [Open Core Roleplaying System](https://www.drivethrurpg.com/product/2727/Open-Core-Role-Playing-System-Classic) - an d20 system that allows swapping the d20 out for some other dice (OGL)
 - [Ops and Tactics](https://opsandtactics.blogspot.com/) - an awesome modern tactical combat system (CC)
+- [Paragon](https://www.agon-rpg.com) - the system used for Agon, a roleplaying game about epic heroes facing trials of the Greek gods
 - [Quest](https://www.adventure.game/resources/) - a fantasy game (CC BY)
 - [Rapido y Facil](http://www.rapidoyfacil.es/proyectos/ryf-nucleo-3-x/documents/) - an awesome d6 roll and keep system (keep middle) (warning, it's not English, [ES]!) (CC)
 - [The Resistance Toolbox](https://gshowitt.itch.io/the-resistance-toolbox) - the generic system used by Spire and Heart (CC BY)
